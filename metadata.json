@@ -1,0 +1,6 @@
+{
+  "name": "LOLLAB",
+  "description": "Your brain. Our memes. Find the perfect reaction or make one that doesn't exist yet with AI and curated cultural archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
